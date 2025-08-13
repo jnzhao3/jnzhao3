@@ -1,4 +1,4 @@
-more to come :)
+f'{firstname}-{lastname}@berkeley.edu'
 <!--
 **jnzhao3/jnzhao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
